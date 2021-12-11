@@ -1,0 +1,13 @@
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries.deps.json
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries.runtimeconfig.json
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries.runtimeconfig.dev.json
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries.dll
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/bin/Debug/netcoreapp3.1/cadastroFilmesSeries.pdb
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.csprojAssemblyReference.cache
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.AssemblyInfoInputs.cache
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.AssemblyInfo.cs
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.csproj.CoreCompileInputs.cache
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.dll
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.pdb
+/media/gustavo-de-brito/Meus DOCUMENTOS/programacao/c#/cadastroFilmesSeries/obj/Debug/netcoreapp3.1/cadastroFilmesSeries.genruntimeconfig.cache
